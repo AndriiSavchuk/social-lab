@@ -1,7 +1,7 @@
 {
-  "name": "html",
+  "name": "bootstrap4-project",
   "version": "0.0.1",
-  "description": "HTML5 template",
+  "description": "Bootstrap 4 project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
