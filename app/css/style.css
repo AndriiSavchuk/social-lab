@@ -4136,6 +4136,9 @@ body { position: relative; min-width: 320px; line-height: 1.75; font-family: "Ro
 
 #header .home .card-form { opacity: .8; }
 
+/* Section Explore styles */
+#explore .explore-content .fa { color: #ffffff; background: #333333; padding: 4px; -webkit-border-radius: 5px; border-radius: 5px; font-size: 26px; }
+
 /* Always at the end */
 /* Font Family variables */
 /* Line height variables */
