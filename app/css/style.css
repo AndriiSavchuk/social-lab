@@ -4123,7 +4123,27 @@ body { position: relative; min-width: 320px; line-height: 1.75; font-family: "Ro
 
 /* Custom styles here */
 /* Navbar styles */
-.navbar { border-bottom: #008ed6 3px solid; opacity: 0.8; }
+#navbar { border-bottom: #008ed6 3px solid; opacity: .8; }
+
+/* Header styles */
+#header { background: url("../img/home.jpg") no-repeat; background-size: cover; background-attachment: fixed; height: 100vh; }
+
+#header .dark-overlay { background-color: rgba(0, 0, 0, 0.7); height: 100vh; }
+
+#header .home { padding-top: 150px; }
+
+#header .home .fa { color: #008ed6; background: #ffffff; padding: 4px; -webkit-border-radius: 5px; border-radius: 5px; font-size: 26px; }
+
+#header .home .card-form { opacity: .8; }
+
+/* Section Explore styles */
+#explore .explore-content .fa { color: #ffffff; background: #333333; padding: 4px; -webkit-border-radius: 5px; border-radius: 5px; font-size: 26px; }
+
+/* Create Explore styles */
+#create .create-content .fa { color: #008ed6; background: #ffffff; padding: 4px; -webkit-border-radius: 5px; border-radius: 5px; font-size: 26px; }
+
+/* Section Explore styles */
+#share .share-content .fa { color: #ffffff; background: #333333; padding: 4px; -webkit-border-radius: 5px; border-radius: 5px; font-size: 26px; }
 
 /* Always at the end */
 /* Font Family variables */
